@@ -4,10 +4,12 @@ This bot automatically detects and removes duplicate media (photos, videos, docu
 
 ## Points to note 
 For now bot can only delete less then 10MB. 
-Bot does not remove the old dublicate files.
-Bot is slow around 2-4 seconds to delete files.
 
-This can be different in your case please try and give ffedback to me.
+Bot does not remove the old dublicate files.
+
+Bot is slow, Takes around 2-4 seconds to delete files.
+
+This can be different in your case please try and give feedback to me.
 
 ## Setup
 
